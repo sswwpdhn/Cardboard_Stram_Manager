@@ -1,0 +1,18 @@
+{
+  "name": "com.yourname.streammanager",
+  "version": "1.0.0",
+  "displayName": "Stream Manager Configurator",
+  "description": "A tool to quickly configure and stream Unity camera frames to a Python server via TCP.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "keywords": [
+    "stream",
+    "python",
+    "tcp",
+    "camera"
+  ],
+  "type": "tool"
+}
